@@ -31,8 +31,8 @@
 
 ## 🚀 Featured Projects
 
-### 📝 NoteBoard – MERN Stack Notes App
-A secure note-taking app with JWT auth, MongoDB backend, and Chakra UI frontend.
+### 📝 NoteBoard – MERN Stack Notes App  
+A secure note-taking app with JWT auth, MongoDB backend, and Chakra UI frontend.  
 [Live Demo](https://noteboard-mern.onrender.com/) • [Code](https://github.com/ali-maqsood1/NoteBoard-MERN)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -42,9 +42,23 @@ A secure note-taking app with JWT auth, MongoDB backend, and Chakra UI frontend.
 
 ---
 
+### 🛒 MyStore – MERN Stack E-commerce App  
+A full-featured online store with user authentication, product management, and responsive UI.  
+[Live Demo](https://your-mystore-demo-link.com) • [Code](https://github.com/ali-maqsood1/my-store)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js)
+
+---
+
+
+
 ## 🔥 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ali-maqsood1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ali-maqsood1&theme=nord&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
