@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **Node.js**, **TypeScript**, and **MongoDB**
+- 💻 Passionate about building fullstack apps with **React**, **Node.js**, **TypeScript**, and **MongoDB**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
 
@@ -41,7 +41,7 @@
 
 ## 🤝 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimaqsood35892@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ali_.maqsood/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alimaqsood35892@gmail.com)<br>
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ali_.maqsood/) <br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-maqsood1)
 
