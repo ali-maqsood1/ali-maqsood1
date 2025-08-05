@@ -57,7 +57,9 @@ A full-featured online store with user authentication, product management, and r
 
 ## 🔥 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ali-maqsood1&theme=nord&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ali-maqsood1&theme=nord&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 
 ---
