@@ -6,8 +6,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ali-maqsood1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🚀 About Me
 
 - 💻 Passionate about building fullstack apps with **React**, **Node.js**, **TypeScript**, and **MongoDB**
@@ -41,6 +39,12 @@ A secure note-taking app with JWT auth, MongoDB backend, and Chakra UI frontend.
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js)
+
+---
+
+## 🔥 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ali-maqsood1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
