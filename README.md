@@ -1,4 +1,4 @@
-# 👋 Hey! 👨‍💻
+# 👋 Hey there! 👨‍💻
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;YouTuber+@pedrotechnologies](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&size=30&letterSpacing=0.1rem&pause=1000&color=09F6F7&vCenter=true&width=435&lines=I'm+Ali+Maqsood;Full+Stack+Dev+%7C+React;" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 ---
 
 ## 🪪 My Resume
-[![Download Resume](https://img.shields.io/badge/-Download_Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/your-username/your-repo-name/raw/main/resume.pdf)
+[![Download CV](https://img.shields.io/badge/-Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ali-maqsood1/ali-maqsood1/raw/main/resume.pdf)
 
 ---
 
