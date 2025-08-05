@@ -14,6 +14,11 @@
 
 ---
 
+## 🪪 My Resume
+[![Download Resume](https://img.shields.io/badge/-Download_Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/your-username/your-repo-name/raw/main/resume.pdf)
+
+---
+
 ## 🧠 My Favorite Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -36,7 +41,7 @@
 
 ## 🤝 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pedrotech__)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pedro.fmachado_)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimaqsood35892@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ali_.maqsood/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-maqsood1)
 
