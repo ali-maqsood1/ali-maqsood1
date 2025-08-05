@@ -6,7 +6,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/ali-maqsood1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ali-maqsood1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 About Me
 
