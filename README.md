@@ -59,8 +59,9 @@ A secure note-taking app with JWT auth, MongoDB backend, and Chakra UI frontend.
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ali-maqsood1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ali-maqsood1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 ## 🤝 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimaqsood35892@gmail.com)
