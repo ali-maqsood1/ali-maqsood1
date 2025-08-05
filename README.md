@@ -4,8 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&size=30&duration=2000&pause=1000&color=09F6F7&center=true&width=435&lines=I'm+Ali+Maqsood;Full+Stack+Developer;React+%7C+Node;MongoDB+%7C+TypeScript;" alt="Typing SVG" />
 </div>
 
-
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/ali-maqsood1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 About Me
 
