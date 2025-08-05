@@ -1,7 +1,7 @@
 # 👋 Hey there! 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&size=30&duration=2000&pause=1000&color=09F6F7&vCenter=true&width=435&lines=I'm+Ali+Maqsood;Full+Stack+Developer;React+%7C+Node+%7C+MongoDB+%7C+TypeScript;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&size=30&duration=2000&pause=1000&color=09F6F7&vCenter=true&width=435&lines=I'm+Ali+Maqsood;Full+Stack+Developer;React+%7C+Node;MongoDB+%7C+TypeScript;" alt="Typing SVG" />
 
 </div>
 
@@ -50,8 +50,9 @@ A secure note-taking app with JWT auth, MongoDB backend, and Chakra UI frontend.
   <img src="https://github-readme-stats.vercel.app/api?username=ali-maqsood1&show_icons=true&theme=react&hide=contribs&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-maqsood1&theme=react" />
 </div>
-![Visitors](https://komarev.com/ghpvc/?username=ali-maqsood1&color=61dafb&style=flat)<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ali-maqsood1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+![Visitor Count](https://komarev.com/ghpvc/?username=ali-maqsood1&label=Profile+Views&color=0e75b6&style=flat)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ali-maqsood1&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
