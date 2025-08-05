@@ -53,15 +53,13 @@ A secure note-taking app with JWT auth, MongoDB backend, and Chakra UI frontend.
   <br /><br />
   <a href="https://github.com/ali-maqsood1">
     <img src="https://komarev.com/ghpvc/?username=ali-maqsood1&label=Profile+Views&color=0e75b6&style=flat" alt="Visitor Count"/>
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ali-maqsood1&theme=gruvbox" alt="GitHub Trophies"/>
-  </a>
+  </a> <br><br>
 </div>
 
 
-
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ali-maqsood1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤝 Connect with Me
 
