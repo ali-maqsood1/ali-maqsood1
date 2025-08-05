@@ -1,7 +1,7 @@
-# 👋 Hey, I'm Pedro – aka **PedroTech** 👨‍💻
+# 👋 Hey, I'm Ali Maqsood** 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;YouTuber+@pedrotechnologies;" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;YouTuber+@pedrotechnologies](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&size=30&letterSpacing=0.1rem&pause=1000&color=09F6F7&vCenter=true&width=435&lines=Ali++Maqsood;Full+Stack+Dev+%7C+React);" alt="Typing SVG" />
 </div>
 
 ---
