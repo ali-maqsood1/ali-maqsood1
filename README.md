@@ -70,7 +70,7 @@ A full-featured online store with user authentication, product management, and r
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ali-maqsood1&show_icons=true&theme=react&hide=contribs&count_private=true" />
   <br />
-  <img src="[https://streak-stats.demolab.com/?user=ali-maqsood1&theme=react](https://streak-stats.demolab.com/?user=ali-maqsood1&theme=react)" />
+  <img src="https://streak-stats.demolab.com/?user=ali-maqsood1&theme=react&cache_seconds=1" />
   <br /><br /><br>
   <a href="https://github.com/ali-maqsood1">
     <img src="https://komarev.com/ghpvc/?username=ali-maqsood1&label=Profile+Views&color=0e75b6&style=flat" alt="Visitor Count"/>
