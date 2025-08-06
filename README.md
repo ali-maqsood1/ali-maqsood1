@@ -77,7 +77,7 @@ A full-featured online store with user authentication, product management, and r
   </a>
   <br><br>
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ali-maqsood1)](https://git.io/streak-stats)
 
 
 ---
