@@ -14,6 +14,14 @@
 
 ---
 
+
+## 🌐 Portfolio
+
+Check out my personal portfolio: [ali-maqsood-portfolio.vercel.app](https://ali-maqsood-portfolio.vercel.app/)
+
+
+---
+
 ## 🪪 My Resume
 [![Download CV](https://img.shields.io/badge/-Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ali-maqsood1/ali-maqsood1/raw/main/resume.pdf)
 
@@ -77,7 +85,6 @@ A full-featured online store with user authentication, product management, and r
   </a>
   <br><br>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ali-maqsood1)](https://git.io/streak-stats)
 
 
 ---
